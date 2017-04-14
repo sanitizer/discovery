@@ -7,10 +7,10 @@ import (
 	"net"
 	"time"
 	// gitlab apis
-	"gitlab.com/moonshiners/discovery/interface"
-	"gitlab.com/moonshiners/discovery/model"
-	"gitlab.com/moonshiners/discovery/security"
-	"gitlab.com/moonshiners/discovery/utils"
+	"github.com/sanitizer/discovery/interface"
+	"github.com/sanitizer/discovery/model"
+	"github.com/sanitizer/discovery/security"
+	"github.com/sanitizer/discovery/utils"
 )
 
 const (
