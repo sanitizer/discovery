@@ -2,7 +2,7 @@ package utils_test
 
 import (
 	"fmt"
-	"gitlab.com/moonshiners/discovery/utils"
+	"github.com/sanitizer/discovery/utils"
 	"strconv"
 	"testing"
 )
