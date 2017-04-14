@@ -11,7 +11,7 @@ import (
 	"strings"
 	"time"
 	// gitlab apis
-	"gitlab.com/moonshiners/discovery/model"
+	"github.com/sanitizer/discovery/model"
 )
 
 type Security struct {
