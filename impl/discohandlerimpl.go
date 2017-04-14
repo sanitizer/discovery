@@ -10,9 +10,9 @@ import (
 	"strconv"
 	"strings"
 	// gitlab apis
-	"gitlab.com/moonshiners/discovery/security"
-	"gitlab.com/moonshiners/discovery/utils"
-	"gitlab.com/moonshiners/discovery/model"
+	"github.com/sanitizer/discovery/security"
+	"github.com/sanitizer/discovery/utils"
+	"github.com/sanitizer/discovery/model"
 )
 
 type DefaultDiscoveryHandler struct{
