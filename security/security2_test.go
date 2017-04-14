@@ -2,7 +2,7 @@ package security
 
 import (
 	"fmt"
-	"gitlab.com/moonshiners/discovery/model"
+	"github.com/sanitizer/discovery/model"
 	"strconv"
 	"testing"
 )
