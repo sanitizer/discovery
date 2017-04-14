@@ -2,8 +2,8 @@ package security_test
 
 import (
 	"fmt"
-	"gitlab.com/moonshiners/discovery/model"
-	"gitlab.com/moonshiners/discovery/security"
+	"github.com/sanitizer/discovery/model"
+	"github.com/sanitizer/discovery/security"
 	"strconv"
 	"strings"
 	"testing"
